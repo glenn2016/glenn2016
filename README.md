@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+.\setup.exe /configure .\configuration-Office2021Enterprise.xml
 
 <p align="left">
   <a href="https://github.com/glenn2016"><img src="https://skillicons.dev/icons?i=vscode,git,github,mongodb,html,css,js,laravel"></a>
