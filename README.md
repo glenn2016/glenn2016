@@ -1,5 +1,4 @@
 ## Hi there 👋
-https://drive.google.com/file/d/1X80P5_kCjTVM1Yt9WBb7U5frS8SJSFhY/view
 
 <p align="left">
   <a href="https://github.com/glenn2016"><img src="https://skillicons.dev/icons?i=vscode,git,github,mongodb,html,css,js,laravel"></a>
